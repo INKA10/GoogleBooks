@@ -10,7 +10,7 @@ A `React`-based Google Books Search app
 
 ---
 
-A working version of the application can be found at [https://react-googlebooks.herokuapp.com/](https://react-googlebooks.herokuapp.com/ "React Google Books Search")
+A working version of the application can be found at [https://dashboard.heroku.com/apps/warm-tundra-55830](https://dashboard.heroku.com/apps/warm-tundra-55830 "React Google Books Search")
 
 ---
 ## What This Application Does
